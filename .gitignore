@@ -5,3 +5,7 @@ DATASET BARU
 DATASET ST.PETERS
 DATASET BAYU
 db_*.csv
+MODEL */
+!MODEL FIX
+DataUjiCoba
+*checkpoint*
